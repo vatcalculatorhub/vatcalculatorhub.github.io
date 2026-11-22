@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vatcalculator.github.io/sitemap.xml
+Sitemap: https://vatcalculatorhub.github.io/sitemap.xml
